@@ -25,7 +25,7 @@ To get started with running the solutions on your local machine, you'll need to 
     ```
 2. Navigate to the repository directory:
     ```sh
-    cd "LeetCode 75"
+    cd "Target Study Plan"
     ```
 
 ## Usage
@@ -33,4 +33,4 @@ To get started with running the solutions on your local machine, you'll need to 
 Each exercise is contained within its own Go file inside the `question` directory. To run a specific solution, use the `go run` command followed by the file name. For example:
 
 ```sh
-go run [question]/main.go
+go run path/to/question/main.go
