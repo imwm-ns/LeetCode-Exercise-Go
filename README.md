@@ -13,7 +13,7 @@ Welcome to the repository for my LeetCode exercise solutions implemented in Go! 
 
 ## About
 
-This repository contains solutions to selected exercises from the LeetCode 75 list, which is a curated collection of problems aimed at strengthening one's grasp of essential coding concepts. Each solution is implemented in the Go programming language.
+This repository contains solutions to selected exercises from the LeetCode Study Plan list, which is a curated collection of problems aimed at strengthening one's grasp of essential coding concepts. Each solution is implemented in the Go programming language.
 
 ## Installation
 
@@ -25,7 +25,7 @@ To get started with running the solutions on your local machine, you'll need to 
     ```
 2. Navigate to the repository directory:
     ```sh
-    cd "Target Study Plan"
+    cd "Study Plan"
     ```
 
 ## Usage
